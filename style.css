@@ -1,0 +1,17 @@
+.cool {
+    font-size: 32px;
+}
+
+body {
+    background-color: pink;
+}
+
+
+p, .beautiful {
+    font-size: 18px;
+    color: rgb(49, 18, 18);
+}
+
+.differ {
+    color: blue;
+}
